@@ -1,4 +1,4 @@
-module.exports = (app, path)=> {
+export default (app, path)=> {
     app.get('/survey', (req, res)=>{
         res.sendFile(path.resolve("./app/public/survey.html"));
     });

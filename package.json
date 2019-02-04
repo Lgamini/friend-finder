@@ -1,5 +1,5 @@
 {
-  "name": "FriendFinder",
+  "name": "friend-finder",
   "version": "1.0.0",
   "description": "Node and Express Servers Exercise",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lgamini/FriendFinder.git"
+    "url": "git+https://github.com/Lgamini/friend-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lgamini/FriendFinderissues"
+    "url": "https://github.com/Lgamini/friend-finder/issues"
   },
-  "homepage": "https://github.com/Lgamini/FriendFinder#readme",
+  "homepage": "https://github.com/Lgamini/friend-finder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
